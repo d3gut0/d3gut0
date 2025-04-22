@@ -1,10 +1,12 @@
+
 # 👋 Olá, eu sou Denisson Silva!
 
 ## 🚀 Sobre mim
-- 🎓 Estudando **Pós Graduação em Desenvolvimento Full Stack e Cloud Computing**
-- 👨‍💻 Desenvolvedor de **APIs e Skills para Alexa**
-- 🎮 Criando um servidor para **GTA V (RageMP)**
-- 💰 Interessado em **Criptomoedas e Automação Financeira**
+ - 👨‍💼 Profissionalmente: Analista de Sistemas, desenvolvendo APIs e aplicações com Node.js, TypeScript e Oracle.
+
+ - 🎯 Como hobby: crio skills para Alexa e desenvolvo projetos e experimentos com Node.js (incluindo servidores para GTA V (RageMP)).
+
+ - 💰 Entusiasta de criptomoedas e automação financeira
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deguto)
@@ -20,7 +22,6 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### 🔧 Banco de Dados e Infraestrutura
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
